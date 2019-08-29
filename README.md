@@ -13,6 +13,10 @@ Os scripts presentes nesta pasta contem as funções:
 
 **Atenção**: instale os pacotes *reshape2* e *plyr*
 
+# Pipeline completa
+
+Vejam o exemplo usando os arquivos Anhumas_end_0.csv e usp_end_0.csv por meio da pipeline[https://raw.githubusercontent.com/allogamous/HOBOmicroData/master/codigos_simplificado.R]
+
 # **Gestão**
 *2019- atualmente*: Germano Martins F.Costa-Neto
 
